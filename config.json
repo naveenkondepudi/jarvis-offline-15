@@ -1,0 +1,26 @@
+{
+  "stt": {
+    "model_size": "medium",
+    "language": null,
+    "compute_type": "int8",
+    "vad": true
+  },
+  "tts": {
+    "rate": 175,
+    "volume": 1.0
+  },
+  "hotkey": {
+    "push_to_talk_key": "ctrl+shift+v"
+  },
+  "apps": {
+    "chrome": {"path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe", "args": []},
+    "edge": {"path": "C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe", "args": []},
+    "notepad": {"path": "notepad.exe", "args": []},
+    "calculator": {"path": "calc.exe", "args": []},
+    "command_prompt": {"path": "cmd.exe", "args": []}
+  },
+  "urls": {
+    "google_search_base": "https://www.google.com/search?q="
+  }
+}
+

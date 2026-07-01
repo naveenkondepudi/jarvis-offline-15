@@ -1,0 +1,14 @@
+faster-whisper==1.0.3
+ctranslate2==4.6.2
+
+PyAudio==0.2.14
+pyttsx3==2.98
+sounddevice==0.4.6
+# numpy version not pinned to avoid wheel/python-version mismatches
+
+
+
+keyboard==0.13.5
+
+
+
